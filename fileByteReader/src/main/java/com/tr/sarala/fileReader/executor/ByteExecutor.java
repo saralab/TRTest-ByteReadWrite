@@ -1,4 +1,7 @@
-package com.tr.sarala.fileReader;
+package com.tr.sarala.fileReader.executor;
+
+import com.tr.sarala.fileReader.BufferBytesRead;
+import com.tr.sarala.fileReader.LastBytesRead;
 
 import java.io.FileInputStream;
 import java.nio.channels.FileChannel;
